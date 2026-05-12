@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="6YZOdFdRXUP5K-u_O9LF">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="240" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Prime&lt;/b&gt;" vertex="1">
+          <mxGeometry height="160" width="200" x="450" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-5" edge="1" parent="1" source="ULf5MwA8DqPT6mgSsbTw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" target="ULf5MwA8DqPT6mgSsbTw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-3" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" value="" vertex="1">
+          <mxGeometry height="90" width="50" x="90" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-7" edge="1" parent="1" source="ULf5MwA8DqPT6mgSsbTw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="ULf5MwA8DqPT6mgSsbTw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-4" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.vpn_gateway;" value="" vertex="1">
+          <mxGeometry height="54.900000000000006" width="54.900000000000006" x="200" y="132.55" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-8" edge="1" parent="1" source="ULf5MwA8DqPT6mgSsbTw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;US&lt;br&gt;VPN Servers&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="305" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Client&lt;/b&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="400" x="440" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-14" edge="1" parent="1" source="ULf5MwA8DqPT6mgSsbTw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ULf5MwA8DqPT6mgSsbTw-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;reverse&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;proxy&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="460" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-16" edge="1" parent="1" source="ULf5MwA8DqPT6mgSsbTw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ULf5MwA8DqPT6mgSsbTw-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;facebook api&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-13" edge="1" parent="1" source="ULf5MwA8DqPT6mgSsbTw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ULf5MwA8DqPT6mgSsbTw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;DB&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="760" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;HTTPS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="335" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;external&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;HTTP&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf5MwA8DqPT6mgSsbTw-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;HTTP&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="700" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
