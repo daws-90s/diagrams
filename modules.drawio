@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="0Qa24okYZferQ3WSUFwJ">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Common Code&lt;/b&gt;&lt;div&gt;&lt;b&gt;Module&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="160" x="320" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;cart&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-3" edge="1" parent="1" source="GRH-K9Ao3_vW_4s2BK3U-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;" target="GRH-K9Ao3_vW_4s2BK3U-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;send parameters&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;catalogue&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-6" edge="1" parent="1" source="GRH-K9Ao3_vW_4s2BK3U-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;" target="GRH-K9Ao3_vW_4s2BK3U-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;send parameters&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;shipping&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-9" edge="1" parent="1" source="GRH-K9Ao3_vW_4s2BK3U-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.622;entryDx=0;entryDy=0;entryPerimeter=0;" target="GRH-K9Ao3_vW_4s2BK3U-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GRH-K9Ao3_vW_4s2BK3U-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;send parameters&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
