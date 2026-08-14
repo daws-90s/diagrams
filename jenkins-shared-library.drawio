@@ -1,0 +1,50 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="cKar6yeVSDHt95ZfdR7M">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;b&gt;jenkins shared library&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;pipeline as a function&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="390" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-3" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" value="" vertex="1">
+          <mxGeometry height="75" width="75" x="500" y="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-5" edge="1" parent="1" source="U-P6ggHZXUGQt33WP8c9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="U-P6ggHZXUGQt33WP8c9-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;b&gt;catalogue&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;nodejs&lt;/b&gt;&lt;div&gt;&lt;b&gt;project roboshop&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;component catalogue&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="190" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;b&gt;catalogue&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;nodejs&lt;/b&gt;&lt;div&gt;&lt;b&gt;project roboshop&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;component cart&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="330" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-9" edge="1" parent="1" source="U-P6ggHZXUGQt33WP8c9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" target="U-P6ggHZXUGQt33WP8c9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;b&gt;shipping&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;java&lt;/b&gt;&lt;div&gt;&lt;b&gt;project roboshop&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;component shipping&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="530" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="U-P6ggHZXUGQt33WP8c9-12" edge="1" parent="1" source="U-P6ggHZXUGQt33WP8c9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.84;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" target="U-P6ggHZXUGQt33WP8c9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

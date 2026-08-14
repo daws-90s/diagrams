@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="vIm94U2xlF3Pi9ddSJ8R">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="afsF3zx3_Y91M6ndU8wO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="300" x="90" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="afsF3zx3_Y91M6ndU8wO-6" edge="1" parent="1" source="afsF3zx3_Y91M6ndU8wO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="afsF3zx3_Y91M6ndU8wO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="afsF3zx3_Y91M6ndU8wO-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Jenkins Master&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="120" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="afsF3zx3_Y91M6ndU8wO-5" edge="1" parent="1" source="afsF3zx3_Y91M6ndU8wO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="afsF3zx3_Y91M6ndU8wO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="235" />
+              <mxPoint x="430" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afsF3zx3_Y91M6ndU8wO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Jenkins Agent&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="270" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="afsF3zx3_Y91M6ndU8wO-4" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" value="Amazon EKS" vertex="1">
+          <mxGeometry height="100" width="80" x="450" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
