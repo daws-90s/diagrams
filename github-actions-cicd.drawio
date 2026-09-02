@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="dtDbjfuiWcpPBhajhV65">
-    <mxGraphModel dx="1857" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1911" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="JpAZ7AC6xyDMswMU-INL-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;install&lt;/b&gt;&lt;div&gt;&lt;b&gt;dependencies&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="240" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="JpAZ7AC6xyDMswMU-INL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;install&lt;/b&gt;&lt;div&gt;&lt;b&gt;dependencies&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="JpAZ7AC6xyDMswMU-INL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;unit-tests&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="400" y="40" as="geometry" />
         </mxCell>
         <mxCell id="JpAZ7AC6xyDMswMU-INL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;sonar-scan&lt;/b&gt;" vertex="1">
@@ -58,8 +58,14 @@
         <mxCell id="JpAZ7AC6xyDMswMU-INL-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;get catalogue ip address from argocd&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="240" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="LFVWWI1O8R-eZm6MYjRs-2" edge="1" parent="1" source="JpAZ7AC6xyDMswMU-INL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LFVWWI1O8R-eZm6MYjRs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JpAZ7AC6xyDMswMU-INL-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;api tests&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="400" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="LFVWWI1O8R-eZm6MYjRs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;raise-pr&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
