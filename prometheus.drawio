@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="72SOC3smjfnQqmSQjMRp">
+    <mxGraphModel dx="1857" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TbisMhykdZH56ASpCiXs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="240" x="440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TbisMhykdZH56ASpCiXs-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TbisMhykdZH56ASpCiXs-7" edge="1" parent="1" source="TbisMhykdZH56ASpCiXs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TbisMhykdZH56ASpCiXs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbisMhykdZH56ASpCiXs-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;TSD&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="180" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="TbisMhykdZH56ASpCiXs-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="node exporter" vertex="1">
+          <mxGeometry height="60" width="110" x="450" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="TbisMhykdZH56ASpCiXs-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;EC2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TbisMhykdZH56ASpCiXs-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Prometheus&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TbisMhykdZH56ASpCiXs-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;SD&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="190" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy6dmePuNfz6DVt_uRiI-2" edge="1" parent="1" source="Hy6dmePuNfz6DVt_uRiI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TbisMhykdZH56ASpCiXs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy6dmePuNfz6DVt_uRiI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;grafana&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="10" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy6dmePuNfz6DVt_uRiI-5" edge="1" parent="1" source="Hy6dmePuNfz6DVt_uRiI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Hy6dmePuNfz6DVt_uRiI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy6dmePuNfz6DVt_uRiI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Rules&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="10" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy6dmePuNfz6DVt_uRiI-7" edge="1" parent="1" source="Hy6dmePuNfz6DVt_uRiI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Hy6dmePuNfz6DVt_uRiI-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="290" />
+              <mxPoint x="22.4" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hy6dmePuNfz6DVt_uRiI-9" edge="1" parent="1" source="Hy6dmePuNfz6DVt_uRiI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Hy6dmePuNfz6DVt_uRiI-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="290" />
+              <mxPoint x="214" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hy6dmePuNfz6DVt_uRiI-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Alert Manager&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="100" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy6dmePuNfz6DVt_uRiI-6" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.gmail" value="" vertex="1">
+          <mxGeometry height="46.800000000000004" width="64.8" x="-10" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy6dmePuNfz6DVt_uRiI-8" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Media-2535/29-Slack-1382.svg" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="190" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
